@@ -59,10 +59,9 @@ This project aims to answer key business and technical questions related to noti
 - **Goal**: Understand temporal patterns in user engagement.
 - **Method**:
   - Aggregate click data across each day of the month.
-  - Visualize engagement trends to identify peaks and low-activity days.
 - **Insights**:
   - Are users more likely to click on certain dates?
-  - Do monthly cycles (e.g., salary days, weekends) affect user behavior?
+  - Do monthly cycles affect user behavior?
 
 ## Sample Metrics
 
