@@ -1,4 +1,4 @@
-# App_Performance_Analysis
+# App Performance Analysis
 
 This project presents a comprehensive data analysis of notification delivery and performance metrics using data from **Pushe** — a push notification service used by many mobile and web applications. The analysis focuses on understanding user engagement patterns, notification efficiency, and overall app performance based on notification response behavior.
 
